@@ -1,6 +1,6 @@
 # ActiveRecordPlayground
 
-TODO: Write a gem description
+Play around with Active Record models in an in memory sqlite3 database
 
 ## Installation
 
@@ -20,7 +20,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+Whatever you like.
 
 ## Contributing
 
